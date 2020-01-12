@@ -1001,3 +1001,23 @@
 #user-rollover.id-33728664 .meta{
 	height:146px!important
 }
+
+/*Sicc tha Gr8 Muziksapien*/
+#user-rollover.id-48234591 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-48234591 .meta:after{
+	content:'Discord Membro';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-48234591 .meta{
+	height:146px!important
+}
