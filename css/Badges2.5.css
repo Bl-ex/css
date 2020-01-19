@@ -129,3 +129,13 @@
     background-position: center;
     background-image: url("https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg");
 }
+
+/*  Mαкι fυrry ƜσƖf  */
+[data-cid^="47024210-"] .badge-box .bdg,
+#user-rollover.id-47024210 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/643618332230287361/668561084726378506/unknown.png");
+}
