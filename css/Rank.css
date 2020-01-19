@@ -1042,22 +1042,4 @@
 	height:146px!important
 }
 
-/*frσstu*/
-#user-rollover.id-3998944 .meta:before {
-    content: url(https://www.esmaelmorais.com.br/wp-content/uploads/2018/05/japones_federal.jpg);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
 
-#user-rollover.id-3998944 .meta:after{
-	content:'Discord Membro';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-3998944 .meta{
-	height:146px!important
-}
