@@ -139,3 +139,13 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/643618332230287361/668561084726378506/unknown.png");
 }
+
+/*  Yaทg  */
+[data-cid^="18109608-"] .badge-box .bdg,
+#user-rollover.id-18109608 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/651427814431522836/674664314606452796/580524.png");
+}
