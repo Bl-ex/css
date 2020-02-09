@@ -74,15 +74,7 @@
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/660953082355515452/660953562704117782/IMG-20191229-WA0073.jpg");
 }
-/* Axzy */
-[data-cid^="15593328-"] .badge-box .bdg,
-#user-rollover.id-15593328 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://media.discordapp.net/attachments/637696239089090582/643138301938761738/badge_plug.dj.gif");
-}
+
 /* Fake */
 [data-cid^="33479737-"] .badge-box .bdg,
 #user-rollover.id-33479737 .badge-box .bdg {
@@ -128,16 +120,6 @@
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://i.imgur.com/td1bAQf.png");
-}
-
-/*  Mαкι fυrry ƜσƖf  */
-[data-cid^="47024210-"] .badge-box .bdg,
-#user-rollover.id-47024210 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://cdn.discordapp.com/attachments/643618332230287361/674759019931631617/Screenshot_4.png");
 }
 
 /*  Yaทg  */
