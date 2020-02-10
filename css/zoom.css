@@ -16,6 +16,7 @@
 #chat-messages .id-18109608 .badge-box:hover ,
 #chat-messages .id-43191142 .badge-box:hover ,
 #chat-messages .id-18919754 .badge-box:hover ,
+#chat-messages .id-25606918 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -306,6 +307,24 @@
 /* korogui */
 #chat-messages .id-18919754 .badge-box i.bdg, .id-18919754 .no-badge i { 
 	background-image: url(https://i.imgur.com/9sCASl4.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* solnoturno */
+#chat-messages .id-25606918 .badge-box i.bdg, .id-25606918 .no-badge i { 
+	background-image: url(https://imgur.com/a/yYrBOVa.gif); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
