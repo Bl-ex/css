@@ -181,3 +181,13 @@
     background-position: center;
     background-image: url("https://i.imgur.com/Ltr3olU.gif");
 }
+
+/* venice bitch vulgo flower */
+[data-cid^="7894112-"] .badge-box .bdg,
+#user-rollover.id-7894112 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/rsBusN9.gif");
+}
