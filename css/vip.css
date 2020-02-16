@@ -178,13 +178,3 @@ background-position: 0px center;
 background-size: 16px auto;
 left: 0px;
 } 
-
-[data-cid^="3998944"] .msg .from .un {
-position: relative;
-padding-left: 20px;
-background-image: url("https://cdn.frankerfacez.com/emoticon/185890/1");
-background-repeat: no-repeat;
-background-position: 0px center;
-background-size: 16px auto;
-left: 0px;
-}
