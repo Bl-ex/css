@@ -1141,3 +1141,23 @@
 #user-rollover.id-5600685 .meta{
 	height:146px!important
 }
+
+/*JethroParis*/
+#user-rollover.id-35568627 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-35568627 .meta:after{
+	content:'Membro no Discord';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-35568627 .meta{
+	height:146px!important
+}
