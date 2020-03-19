@@ -20,6 +20,15 @@
     background-position: center;
     background-image: url("https://media.giphy.com/media/3og0ICZg7alVr1bwXu/giphy.gif");
 }
+/* Ja Shu */
+[data-cid^="47239911-"] .badge-box .bdg,
+#user-rollover.id-22517314 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/690343616958562405/690344641349812224/image0.png");
+}
 /*Dokz */
 [data-cid^="39006171-"] .badge-box .bdg,
 #user-rollover.id-22517314 .badge-box .bdg {
