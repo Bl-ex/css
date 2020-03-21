@@ -544,26 +544,6 @@
 	height:146px!important
 }
 
-/*M.R-PICKLES*/
-#user-rollover.id-43191142 .meta:before {
-    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
-
-#user-rollover.id-43191142 .meta:after{
-	content:'Membro no Discord';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-43191142 .meta{
-	height:146px!important
-}
-
 /*Koaalex*/
 #user-rollover.id-30311284 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
@@ -663,25 +643,7 @@
 #user-rollover.id-13543954 .meta{
 	height:146px!important
 }
-/*Onairda*/
-#user-rollover.id-5180391 .meta:before {
-    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
 
-#user-rollover.id-5180391 .meta:after{
-	content:'Membro no Discord';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-5180391 .meta{
-	height:146px!important
-}
 /*Maatheuus*/
 #user-rollover.id-3440943 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
@@ -799,26 +761,6 @@
 	left:130px
 }
 #user-rollover.id-8837044 .meta{
-	height:146px!important
-}
-
-/*Fake*/
-#user-rollover.id-33479737 .meta:before {
-    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
-
-#user-rollover.id-33479737 .meta:after{
-	content:'Membro no Discord';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-33479737 .meta{
 	height:146px!important
 }
 
