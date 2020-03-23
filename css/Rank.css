@@ -1223,3 +1223,23 @@
 #user-rollover.id-16681992 .meta{
 	height:166px!important
 }
+
+/*𝑀𝐸𝒳𝒳*/
+#user-rollover.id-19488358 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 140px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-19488358 .meta:after{
+	content:'Membro no Discord';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+#user-rollover.id-19488358 .meta{
+	height:166px!important
+}
