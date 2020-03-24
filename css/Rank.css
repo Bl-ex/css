@@ -1303,3 +1303,23 @@
 #user-rollover.id-49334114 .meta{
 	height:146px!important
 }
+
+/*Boliner*/
+#user-rollover.id-10814721 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-10814721 .meta:after{
+	content:'Membro no Discord';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-10814721 .meta{
+	height:146px!important
+}
