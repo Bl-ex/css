@@ -1,5 +1,9 @@
 @charset "UTF-8";
-@import "https://moveitbrasil.ga/custom-imports/";
+@import url('https://raw.githack.com/brazilex/css/master/css/Badges2.5.css');
+@import url('https://raw.githack.com/brazilex/css/master/css/rcsvotefix.css');
+@import url('https://raw.githack.com/brazilex/css/master/css/Rank.css');
+@import url('https://raw.githack.com/brazilex/css/master/css/zoom.css');
+@import url('https://raw.githack.com/brazilex/css/master/css/vip.css');
 @-webkit-keyframes fadeIn{0%{
 		opacity:0
 }
