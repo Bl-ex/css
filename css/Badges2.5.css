@@ -209,3 +209,13 @@
     background-position: center;
     background-image: url("https://imgur.com/I0MC6S5.gif");
 }
+
+/* pααвℓѳ */
+[data-cid^="5156815-"] .badge-box .bdg,
+#user-rollover.id-5156815 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/kHFar2g.gif");
+}
