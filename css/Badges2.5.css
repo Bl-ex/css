@@ -219,3 +219,13 @@
     background-position: center;
     background-image: url("https://imgur.com/kHFar2g.gif");
 }
+
+/* Valery */
+[data-cid^="35641504-"] .badge-box .bdg,
+#user-rollover.id-35641504 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/PYAzA3h.gif");
+}
