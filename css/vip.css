@@ -179,3 +179,23 @@ background-size: 16px auto;
 left: 0px;
 } 
 		
+/* Yumi Hideaki */
+#user-rollover.id-49537692 .meta:before{
+	content:url(https://imgur.com/qAEweES.png);
+	top:138px;
+	left:109px;
+	position:absolute
+}
+#user-rollover.id-49537692 .meta:after{
+	content:'Membro no Discord\A Membro VIP';
+	white-space:pre-wrap;
+	color:#808691;
+        font-size: 14px;
+	position:absolute;
+	top:135px;
+	left:130px
+}
+
+#user-rollover.id-22517314 .meta{
+	height:176px!important
+}
