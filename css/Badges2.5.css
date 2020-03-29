@@ -229,13 +229,3 @@
     background-position: center;
     background-image: url("https://imgur.com/PYAzA3h.gif");
 }
-
-/* Yumi Hideaki */
-[data-cid^="49537692-"] .badge-box .bdg,
-#user-rollover.id-49537692 .badge-box .bdg {
-    border-radius: 5px;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
-    background-image: url("https://media.giphy.com/media/5vWsNi8vhSz4ZlE56J/giphy.gif");
-}
