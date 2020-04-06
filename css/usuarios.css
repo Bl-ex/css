@@ -1,0 +1,62 @@
+/* Maki */
+[data-cid^="47024210-"] .msg .from .icon-chat-subscriber,
+#user-lists .list.room .id-47024210 .icon-chat-subscriber,
+#user-rollover.id-47024210 .meta.subscriber .status i {
+  background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/sub.png") !important;
+  background-repeat: no-repeat !important;
+}
+
+[data-cid^="47024210-"] .msg .from .icon-chat-cohost,
+#user-lists .list.room .id-47024210 .icon-chat-cohost,
+#user-rollover.id-47024210 .info .role i.icon-chat-cohost,
+[data-cid^="47024210-"] .msg .from .icon-chat-host,
+#user-lists .list.room .id-47024210 .icon-chat-host,
+#user-rollover.id-47024210 .info .role i.icon-chat-host {
+  background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/cohost.png") !important;
+  background-repeat: no-repeat !important;
+}
+
+#chat [data-cid^="47024210-"] span.un.clickable,
+/*.id-47024210 span.un.clickable,*/
+#user-lists .list.room .id-47024210 .name,
+#user-lists .list.room .is-staff.id-47024210 .name,
+#user-lists .list.room .is-dj.id-47024210 .name,
+#user-lists .list.room .is-subscriber.id-47024210 .name,
+#user-lists .list.room [class*='role'].id-47024210 .name,
+#chat .msg .text .id-47024210,
+#chat .msg .text .name.id-47024210,
+#chat .msg .text .name.id-47024210 .name,
+#user-rollover.id-47024210 .username,
+#user-rollover.id-47024210 .meta.subscriber .status span,
+#user-rollover.id-47024210.is-staff .info .role span {
+  color: #e74c3c !important;
+}
+
+#user-rollover.id-47024210 .subscriber .thumb,
+#user-rollover.id-47024210.is-staff .thumb {
+  border-color: #e74c3c !important;
+}
+
+
+/* Credits */
+#user-rollover.id-47024210 .meta .p3UserID,
+#user-rollover.id- .meta .p3UserID,
+#user-rollover.id- .meta .p3UserID {
+    display: none !important;
+}
+
+#user-rollover.id-47024210 span.showID,
+#user-rollover.id- span.showID,
+#user-rollover.id- span.showID {
+    display: none !important;
+}
+
+#user-rollover.id-47024210 .meta .joined:after,
+#user-rollover.id- .meta .joined:after,
+#user-rollover.id- .meta .joined:after {
+    content: "The King of Wolves" !important;
+    color: #1bde5f;
+    position: relative;
+    display: inline-block;
+    top: 2px;
+}
