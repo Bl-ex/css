@@ -24,6 +24,7 @@
 #chat-messages .id-39006171 .badge-box:hover ,
 #chat-messages .id-5156815 .badge-box:hover ,
 #chat-messages .id-35641504 .badge-box:hover ,
+#chat-messages .id-5707149 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -458,6 +459,24 @@
 /* LEGOSI */
 #chat-messages .id-47024210 .badge-box i.bdg, .id-47024210 .no-badge i { 
 	background-image: url(https://media.giphy.com/media/UPvyecehZm1hZcT6o7/giphy.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Nani */
+#chat-messages .id-5707149 .badge-box i.bdg, .id-5707149 .no-badge i { 
+	background-image: url(https://media.discordapp.net/attachments/696441170716524555/696513933728546866/lego_comissaria_2.jpg); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
