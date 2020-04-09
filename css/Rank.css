@@ -18,6 +18,26 @@
 	height:146px!important
 }
 
+/*biodesgradavel*/
+#user-rollover.id-3453128 .meta:before {
+    content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
+    top: 120px;
+    left: 110px;
+    position: absolute;
+}
+
+#user-rollover.id-3453128 .meta:after{
+	content:'Membro no Discord';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:120px;
+	left:130px
+}
+#user-rollover.id-11261222 .meta{
+	height:146px!important
+}
+
 /*fløwer*/
 #user-rollover.id-22517314 .meta:before {
     content: url(https://raw.githack.com/brazilex/css/master/images/discord.png);
