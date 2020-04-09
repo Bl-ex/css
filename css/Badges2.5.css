@@ -249,3 +249,13 @@
     background-position: center;
     background-image: url("https://media.discordapp.net/attachments/696441170716524555/696513933728546866/lego_comissaria_2.jpg");
 }
+
+/* Woataly */
+[data-cid^="3470448-"] .badge-box .bdg,
+#user-rollover.id-3470448 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://tenor.com/view/tea-shade-addams-family-morticia-gif-4475889");
+}
