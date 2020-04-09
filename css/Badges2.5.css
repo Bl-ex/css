@@ -250,6 +250,16 @@
     background-image: url("https://media.discordapp.net/attachments/696441170716524555/696513933728546866/lego_comissaria_2.jpg");
 }
 
+/* biodesagradavel */
+[data-cid^="3453128-"] .badge-box .bdg,
+#user-rollover.id-3453128 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media1.tenor.com/images/c25b3d4f8c604c4e838b0cf3c13736ca/tenor.gif");
+}
+    
 /* Woataly */
 [data-cid^="3470448-"] .badge-box .bdg,
 #user-rollover.id-3470448 .badge-box .bdg {
