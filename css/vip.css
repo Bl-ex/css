@@ -178,3 +178,36 @@ background-position: 0px center;
 background-size: 16px auto;
 left: 0px;
 } 
+
+
+/* Woataly */
+#user-rollover.id-3470448 .meta:before{
+    content:url(https://tenor.com/view/tea-shade-addams-family-morticia-gif-4475889);
+    top:117px;
+    left:109px;
+    position:absolute
+}
+#user-rollover.id-3470448 .meta:after{
+    content:'Membro no Discord\A Membro VIP';
+    white-space:pre-wrap;
+    color:#808691;
+        font-size: 14px;
+    position:absolute;
+    top:115px;
+    left:130px
+}
+
+#user-rollover.id-3470448 .meta{
+    height:156px!important
+}
+
+/* imagem no chat */
+[data-cid^="20574971"] .msg .from .un {
+position: relative;
+padding-left: 20px;
+background-image: url("https://imgur.com/uDDtvvd.png");
+background-repeat: no-repeat;
+background-position: 0px center;
+background-size: 16px auto;
+left: 0px;
+} 
