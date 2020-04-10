@@ -279,3 +279,13 @@
     background-position: center;
     background-image: url("https://media.discordapp.net/attachments/698203407227289662/698210985571254292/daftgalaxy.gif");
 }
+
+/* DoomQueen */
+[data-cid^="16539317-"] .badge-box .bdg,
+#user-rollover.id-16539317 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/mCJFLhu.gif");
+}
