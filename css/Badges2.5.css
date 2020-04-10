@@ -269,3 +269,13 @@
     background-position: center;
     background-image: url("https://tenor.com/view/tea-shade-addams-family-morticia-gif-4475889");
 }
+
+/* Left4Deft */
+[data-cid^="3597559-"] .badge-box .bdg,
+#user-rollover.id-3597559 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/698203407227289662/698210985571254292/daftgalaxy.gif");
+}
