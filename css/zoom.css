@@ -27,6 +27,7 @@
 #chat.messages .id-3453128 .badge-box:hover,
 #chat-messages .id-5707149 .badge-box:hover ,
 #chat-messages .id-3597559 .badge-box:hover ,
+#chat-messages .id-3470448 .badge-box:hover ,
 #chat-messages .id-22517314 .badge-box:hover{ 
 	width: 65px; 
 	height: 65px; 
@@ -515,6 +516,24 @@
 /* -Lϵғт4Daғт- */
 #chat-messages .id-3597559 .badge-box i.bdg, .id-3597559 .no-badge i { 
 	background-image: url(https://media.discordapp.net/attachments/698203407227289662/698210985571254292/daftgalaxy.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* Woataly */
+#chat-messages .id-3470448 .badge-box i.bdg, .id-3470448 .no-badge i { 
+	background-image: url(https://imgur.com/ObuPufQ.gif); 
 	background-size: cover; 
 	width: 100%; 
 	height: 100%; 
